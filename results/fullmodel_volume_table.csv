@@ -1,0 +1,9 @@
+"Factor","EQ_Profile","Volume_Shift_dB","SD_Random_Intercepts_dB","SD","CI_2_5","CI_97_5"
+"Enjoyment (vs. Null)","Volume",1.06,NA,0.22,0.65,1.49
+"Distraction (vs. Null)","Volume",-0.76,NA,0.21,-1.17,-0.34
+"Relaxation (vs. Null)","Volume",-0.81,NA,0.22,-1.24,-0.38
+"Focus-Motivation (vs. Null)","Volume",0.81,NA,0.22,0.39,1.25
+"Diesel (vs. EV)","Volume",1.62,NA,0.13,1.37,1.88
+"Excerpt","Volume",NA,0.59,0.1,0.39,0.79
+"Participant ","Volume",NA,3.61,0.19,3.25,3.99
+"Residual (Sigma)","Volume",NA,3.04,0.05,2.94,3.14

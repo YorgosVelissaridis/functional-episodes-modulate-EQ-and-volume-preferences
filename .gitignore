@@ -1,0 +1,34 @@
+# History and workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Heavy Bayesian Model Caches (Keep the folder structure, ignore the huge .rds files)
+results/cache/
+
+# Other data, found at Zenodo
+drawio_graphs
+engine_noises
+music_excerpts
+
+# From renv R package
+library/
+local/
+cellar/
+lock/
+python/
+sandbox/
+staging/
+
+# Python environment
+.venv
